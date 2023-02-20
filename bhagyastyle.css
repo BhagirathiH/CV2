@@ -1,0 +1,37 @@
+center{
+    background-color: rgb(252, 229, 201);
+}
+
+body{
+    background-color:#ECF2FF;
+}
+
+h2{
+    color:rgb(58, 58, 97)
+}
+
+h3{
+    color: #443C68;
+    font-size: 25px;
+}
+
+h3:hover{
+    color:black;
+}
+
+
+
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+
